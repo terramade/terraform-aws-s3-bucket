@@ -1,2 +1,3 @@
-# terraform-aws-s3-bucket
-Custom module for creating an AWS S3 bucket
+# AWS S3 Bucket Module
+
+Custom module for creating an S3 bucket in AWS.
